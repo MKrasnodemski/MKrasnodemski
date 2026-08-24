@@ -22,7 +22,7 @@ I combine hands-on operational experience in e-commerce (reverse logistics, afte
 **Tech Stack:** C#, .NET, WPF, Visual Studio, QuestPDF
 * **The Problem:** Manual verification of electrical circuits is time-consuming and highly prone to human error when using traditional spreadsheets.
 * **The Solution:** I developed a custom desktop application as my engineering thesis to automate complex electrical calculations[cite: 1]. The tool instantly assesses circuit designs for compliance with the strict PN-HD 60364 standard and generates formatted PDF reports[cite: 1].
-**The Impact:** Defended with the highest possible grade (5.0) and officially nominated for the Rector's Award for the Best Engineering Thesis of the 2025/2026 academic year.
+* **The Impact:** Defended with the highest possible grade (5.0) and officially nominated for the Rector's Award for the Best Engineering Thesis of the 2025/2026 academic year.
 ---
 
 ## 🛠️ Tools & Technologies
