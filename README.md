@@ -36,7 +36,7 @@ I use AI-assisted development as part of my workflow to move faster — the data
 
 ## 🎓 Other Projects
 
-### ⚡ Low-voltage Electrical Installations Verifier
+### [⚡ Low-voltage Electrical Installations Verifier](/MKrasnodemski/electrical-installation-verifier)
 **Tech Stack:** C#, .NET, WPF, Visual Studio, QuestPDF
 
 - **The Problem:** Manual verification of electrical circuits is time-consuming and highly prone to human error when using traditional spreadsheets.
